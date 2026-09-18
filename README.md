@@ -1,13 +1,13 @@
-# helium-macos-private
+# No Leak Helium (macOS packaging)
 
 Public packaging fork of [imputnet/helium-macos](https://github.com/imputnet/helium-macos)
-for [gokulsvision/helium-private](https://github.com/gokulsvision/helium-private).
+for **[No Leak Helium](https://github.com/gokulsvision/no-leak-helium)**.
 
 This is **not** an official Helium repository. The `helium-chromium` submodule
-points at the privacy fork, not at `imputnet/helium`.
+points at `gokulsvision/no-leak-helium`, not at `imputnet/helium`.
 
 Until you compile Chromium here, use an official Helium.app plus the overlay in
-[helium-private/overlay/macos](https://github.com/gokulsvision/helium-private/tree/main/overlay/macos).
+[no-leak-helium/overlay/macos](https://github.com/gokulsvision/no-leak-helium/tree/main/overlay/macos).
 
 # helium-macos (upstream README follows)
 macOS packaging & development tooling for the
