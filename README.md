@@ -1,4 +1,15 @@
-# helium-macos
+# helium-macos-private
+
+Public packaging fork of [imputnet/helium-macos](https://github.com/imputnet/helium-macos)
+for [gokulsvision/helium-private](https://github.com/gokulsvision/helium-private).
+
+This is **not** an official Helium repository. The `helium-chromium` submodule
+points at the privacy fork, not at `imputnet/helium`.
+
+Until you compile Chromium here, use an official Helium.app plus the overlay in
+[helium-private/overlay/macos](https://github.com/gokulsvision/helium-private/tree/main/overlay/macos).
+
+# helium-macos (upstream README follows)
 macOS packaging & development tooling for the
 [Helium Browser](https://github.com/imputnet/helium).
 
